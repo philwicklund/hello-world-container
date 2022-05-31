@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: hello-world-deployment
-          image: philwicklund/hello-world-container:0.0.1
+          image: philwicklund/hello-world-container:1.0.0
           ports:
             - containerPort: 5000
